@@ -7,16 +7,6 @@ import json
 # and meet the project requirements! You will need to implement several new
 # functions.
 
-#QUESTIONS:
-#for the sorts make sure it does averages of cocoapercent and ratings
-#are we suppose to round for averages
-
-
-#test not working for companies-region and bars- cocoapercent
-#for companies does sell/source mean "and" or "or"
-#not sure if my code is right for the commands
-#my output doesnt match with the example output. Is it suppose to or is the output just example numbers?
-#is it a mistake that the directions say to return tuple 7?
 # Part 1: Read data from CSV and JSON into a new database called choc.db
 DBNAME = 'choc.db'
 BARSCSV = 'flavors_of_cacao_cleaned.csv'
